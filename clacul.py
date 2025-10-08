@@ -1,5 +1,6 @@
 def add(a,b):
     print('yes')
-    print('n')
+    print('')
+    
     return a+b
     
