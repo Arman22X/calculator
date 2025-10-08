@@ -1,7 +1,7 @@
 def add(a,b):
     print('yes')
-    print('')
-    
+    print('nj')
+    print('hh')
     return a+b
     
 def subtract(a,b):
