@@ -1,4 +1,4 @@
-def add(a,b):
+uuudef add(a,b):
     print('yes')
     print('nj')
     print('hh')
