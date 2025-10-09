@@ -11,8 +11,12 @@ def subtract(a,b):
 
     print('yes')
 
+
     print('yyy')
 
-    print('no')
 
+    print('no')
     return a-b
+
+def multiplay(a,b):
+    return a*b
