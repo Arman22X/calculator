@@ -19,4 +19,5 @@ def subtract(a,b):
     return a-b
 
 def multiplay(a,b):
+    print('uuu')
     return a*b
