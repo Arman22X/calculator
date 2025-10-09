@@ -21,4 +21,5 @@ def subtract(a,b):
 def multiplay(a,b):
     print('uuu')
     print('lll')
+    print('kkj')
     return a*b
